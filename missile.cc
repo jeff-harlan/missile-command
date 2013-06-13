@@ -1,7 +1,7 @@
 /* missile.c
  * jeff harlan
- * 03.08.00
- * 10.20.01
+ * 2000.09.03
+ * 2013.06.13
  *
  * missile command for X
  */
